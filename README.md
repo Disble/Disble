@@ -10,6 +10,10 @@ For example:
 - 🔭 I’m currently working on personal project that I’m inspired the other day using GOG Galaxy app and I'm creating an app box ([dbox](https://github.com/Disble/dbox)) where you can group your apps.
 - ⚡ Fun fact: I'm actually, built a project in electron for management anime episodes only for I can't remember in what episode I stayed in each week (repository [here](https://github.com/Disble/automatizar-tareas)).
 
+My Platzi stats
+
+[![My Stats](https://platzi-cards.dantehemerson.vercel.app/p/disble)](https://platzi.com/p/disble)
+
 <!--
 **Disble/Disble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
