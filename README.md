@@ -6,14 +6,14 @@ This space is only for comment things that right now I'm doing.
 
 For example:
 
-- 🌱 I’m currently learning about Vue.js and JavaScript in depth (also a little bit of Python).
-- 🔭 I’m currently working on personal project that I’m inspired the other day using GOG Galaxy app and I'm creating an app box ([dbox](https://github.com/Disble/dbox)) where you can group your apps.
-- ⚡ Fun fact: I'm actually, built a project in electron for management anime episodes only for I can't remember in what episode I stayed in each week (repository [here](https://github.com/Disble/automatizar-tareas)).
+- 🌱 I’m currently learning about Machine Learning and Python.
+- 🔭 I’m currently working on own personal brand, so this text is part of it.
+- 💬 Ask me about JavaScript, it's my first programming languaje (and future second).
+- ⚡ Fun fact: Work with Threejs and Babylonjs it's harder than i thought.
 
-My Platzi stats
+So, that's all. 
 
-[![My Stats](https://platzi-cards.dantehemerson.vercel.app/p/disble)](https://platzi.com/p/disble)
-
+See you next time.
 <!--
 **Disble/Disble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
