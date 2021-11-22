@@ -6,9 +6,11 @@ This space is only for comment things that right now I'm doing.
 
 For example:
 
-- 🌱 I’m currently learning about Machine Learning and Python.
+- 🌱 I’m currently learning about Blockchain and Cryptocurrency.
 - 🔭 I’m currently working on own personal brand, so this text is part of it.
-- 💬 Ask me about JavaScript, it's my first programming languaje (and future second).
+- 💬 Ask me about JavaScript, it's my first programming languaje.
+- 📫 How to reach me: write me on Twitter: [@Disblelab](https://twitter.com/disblelab).
+- ✏️ I’m writing a [blog.disblelab.com](https://blog.disblelab.com).
 - ⚡ Fun fact: Work with Threejs and Babylonjs it's harder than i thought.
 
 So, that's all. 
